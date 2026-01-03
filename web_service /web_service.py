@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # Backend API URL (Render'daki mikro hizmetin adresi)
-API_URL = "https://cloud4-s99y.onrender.com"  # kendi backend URL'in
+API_URL = "https://hello-cloud-ra8t.onrender.com"  # kendi backend URL'in
 
 # Basit HTML şablonu
 HTML = """
@@ -75,7 +75,7 @@ HTML = """
 
     <hr>
     <p class="footer">
-        Hazırlayan: Şevval Azra Koçak
+        Hazırlayan: Zeynep Kılıç
     </p>
 
 </body>
